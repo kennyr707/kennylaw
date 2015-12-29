@@ -1,0 +1,4 @@
+name=kennylaw
+description=custom theme for law website
+core=7.x
+base theme=responsive_bartik
